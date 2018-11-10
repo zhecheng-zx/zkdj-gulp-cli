@@ -33,7 +33,8 @@
     "co-prompt": "^1.0.0",
     "commander": "^2.9.0",
     "inquirer": "^6.2.0",
-    "ora": "^3.0.0"
+    "ora": "^3.0.0",
+    "request": "^2.88.0"
   },
   "engines": {
     "node": ">=6.0.0"
