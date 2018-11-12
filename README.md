@@ -4,7 +4,7 @@
     
 ###安装
 
-    npm innstall -g zkdj-gulp-cli
+    npm install -g zkdj-gulp-cli
     
 ###使用方法
  >1、查看模版列表
